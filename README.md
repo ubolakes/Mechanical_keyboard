@@ -25,9 +25,9 @@ The keyboard is designed with a 96% ANSI layout to provide all the necessary key
 </div>
 
 ## Case design
-The feature I desire most in a keyboard is a thin design that reduces wrist fatigue without the need for a wrist rest. A slimmer keyboard also offers a sleekwe look (I guess).
+The feature I desire most in a keyboard is a thin design that reduces wrist fatigue without the need for a wrist rest. A slimmer keyboard also offers a sleeker look (I guess).
 
-To achieve this, my friend and colleague Biagio designed an aluminum case to reduce costs, make the keyboard lighter, and allow for anodized coloring.
+To achieve this, my friend and colleague, Biagio, designed a bent sheet metal backplate and a 3D-printable bottom case in order to reduce costs and make the keyboard lighter. Biagio also designed 3D-printable feet to angle the keyboard and improve ergonomics.
 
 [comment]: <> (TODO: add render of the two case pieces from CAD)
 
