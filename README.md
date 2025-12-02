@@ -18,7 +18,7 @@ He also made the design as thin as possible due to my childish complaints about 
 ## General overview
 The keyboard is designed with a 96% ANSI layout to provide all the necessary keys while reducing the footprint compared to a 100% layout.
 
-<div style="text-align: center; margin-left: auto; margin-right: auto;">
+<div align="center" style="text-align: center; margin-left: auto; margin-right: auto;">
   <img src="./source/images/keyboard-layout.jpg" alt="Keyboard layout" width="700px">
 
 *Figure 1: Mechanical keyboard layout*
@@ -38,7 +38,7 @@ The first type of switch I chose was the Kailh Choc. The problem with them is th
 
 After my search, I discovered the Outemu GTMX medium-profile switches. They have a lower profile than Cherry MX switches, but not as low as Kailh Choc switches. They have the same footprint as standard Cherry MX switches and are compatible with MX-specific PCBs, backplates, keycaps, and MX PCB-mounted stabilizers, which allows for a lower price.
 
-<div style="text-align: center; margin-left: auto; margin-right: auto;">
+<div align="center" style="text-align: center; margin-left: auto; margin-right: auto;">
   <img src="./source/images/MX-vs-GTMX.png" alt="MX and GTMX heights compared" width="300px">
 
 *Figure 2: Cherry MX and Outemu GTMX heights compared*
